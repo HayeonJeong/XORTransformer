@@ -1,0 +1,26 @@
+Training with conditions: {'D_k': 4, 'weights': True, 'bias': True, 'positional_encoding': True, 'softmax': True, 'layer_norm': True}
+
+
+==================================================
+Starting training with seed 0
+==================================================
+
+Epoch 0, Loss: 1.0090
+Epoch 100, Loss: 0.0289
+Epoch 200, Loss: 0.0040
+Epoch 300, Loss: 0.0017
+Epoch 400, Loss: 0.0009
+Epoch 500, Loss: 0.0006
+Epoch 600, Loss: 0.0004
+Epoch 700, Loss: 0.0003
+Epoch 800, Loss: 0.0003
+Epoch 900, Loss: 0.0002
+
+Test:
+Input: [-1.0, -1.0], Prob: 0.0002, Output: 0
+Input: [-1.0, 1.0], Prob: 0.9997, Output: 1
+Input: [1.0, -1.0], Prob: 0.9999, Output: 1
+Input: [1.0, 1.0], Prob: 0.0001, Output: 0
+
+seed 0: SUCCESS
+Execution time for seed 0: 5.14 seconds

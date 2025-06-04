@@ -1,0 +1,242 @@
+Training with conditions: {'D_k': 1, 'weights': True, 'bias': True, 'positional_encoding': True, 'softmax': True, 'layer_norm': True}
+
+
+==================================================
+Starting training with seed 0
+==================================================
+
+Epoch 0, Loss: 0.7698
+Epoch 100, Loss: 0.6932
+Epoch 200, Loss: 0.6931
+Epoch 300, Loss: 0.6931
+Epoch 400, Loss: 0.6931
+Epoch 500, Loss: 0.6931
+Epoch 600, Loss: 0.6931
+Epoch 700, Loss: 0.6931
+Epoch 800, Loss: 0.6931
+Epoch 900, Loss: 0.6931
+
+Test:
+Input: [-1.0, -1.0], Prob: 0.5000, Output: 0
+Input: [-1.0, 1.0], Prob: 0.5000, Output: 0
+Input: [1.0, -1.0], Prob: 0.5000, Output: 0
+Input: [1.0, 1.0], Prob: 0.5000, Output: 1
+
+seed 0: FAILED
+Execution time for seed 0: 2.92 seconds
+
+==================================================
+Starting training with seed 1
+==================================================
+
+Epoch 0, Loss: 0.7252
+Epoch 100, Loss: 0.6931
+Epoch 200, Loss: 0.6931
+Epoch 300, Loss: 0.6931
+Epoch 400, Loss: 0.6931
+Epoch 500, Loss: 0.6931
+Epoch 600, Loss: 0.6931
+Epoch 700, Loss: 0.6931
+Epoch 800, Loss: 0.6931
+Epoch 900, Loss: 0.6931
+
+Test:
+Input: [-1.0, -1.0], Prob: 0.5000, Output: 0
+Input: [-1.0, 1.0], Prob: 0.5000, Output: 0
+Input: [1.0, -1.0], Prob: 0.5000, Output: 0
+Input: [1.0, 1.0], Prob: 0.5000, Output: 0
+
+seed 1: FAILED
+Execution time for seed 1: 2.76 seconds
+
+==================================================
+Starting training with seed 2
+==================================================
+
+Epoch 0, Loss: 0.7727
+Epoch 100, Loss: 0.6932
+Epoch 200, Loss: 0.6931
+Epoch 300, Loss: 0.6931
+Epoch 400, Loss: 0.6931
+Epoch 500, Loss: 0.6931
+Epoch 600, Loss: 0.6931
+Epoch 700, Loss: 0.6931
+Epoch 800, Loss: 0.6931
+Epoch 900, Loss: 0.6931
+
+Test:
+Input: [-1.0, -1.0], Prob: 0.5000, Output: 0
+Input: [-1.0, 1.0], Prob: 0.5000, Output: 1
+Input: [1.0, -1.0], Prob: 0.5000, Output: 1
+Input: [1.0, 1.0], Prob: 0.5000, Output: 1
+
+seed 2: FAILED
+Execution time for seed 2: 2.73 seconds
+
+==================================================
+Starting training with seed 3
+==================================================
+
+Epoch 0, Loss: 0.7226
+Epoch 100, Loss: 0.6931
+Epoch 200, Loss: 0.6932
+Epoch 300, Loss: 0.6931
+Epoch 400, Loss: 0.6931
+Epoch 500, Loss: 0.6931
+Epoch 600, Loss: 0.6931
+Epoch 700, Loss: 0.6931
+Epoch 800, Loss: 0.6931
+Epoch 900, Loss: 0.6932
+
+Test:
+Input: [-1.0, -1.0], Prob: 0.5000, Output: 1
+Input: [-1.0, 1.0], Prob: 0.5000, Output: 1
+Input: [1.0, -1.0], Prob: 0.5000, Output: 1
+Input: [1.0, 1.0], Prob: 0.5000, Output: 1
+
+seed 3: FAILED
+Execution time for seed 3: 2.73 seconds
+
+==================================================
+Starting training with seed 4
+==================================================
+
+Epoch 0, Loss: 0.7761
+Epoch 100, Loss: 0.6931
+Epoch 200, Loss: 0.6931
+Epoch 300, Loss: 0.6931
+Epoch 400, Loss: 0.6931
+Epoch 500, Loss: 0.6931
+Epoch 600, Loss: 0.6931
+Epoch 700, Loss: 0.6931
+Epoch 800, Loss: 0.6931
+Epoch 900, Loss: 0.6931
+
+Test:
+Input: [-1.0, -1.0], Prob: 0.5000, Output: 0
+Input: [-1.0, 1.0], Prob: 0.5000, Output: 0
+Input: [1.0, -1.0], Prob: 0.5000, Output: 0
+Input: [1.0, 1.0], Prob: 0.5000, Output: 1
+
+seed 4: FAILED
+Execution time for seed 4: 2.73 seconds
+
+==================================================
+Starting training with seed 5
+==================================================
+
+Epoch 0, Loss: 0.7212
+Epoch 100, Loss: 0.6931
+Epoch 200, Loss: 0.6931
+Epoch 300, Loss: 0.6931
+Epoch 400, Loss: 0.6931
+Epoch 500, Loss: 0.6931
+Epoch 600, Loss: 0.6932
+Epoch 700, Loss: 0.6932
+Epoch 800, Loss: 0.6931
+Epoch 900, Loss: 0.6931
+
+Test:
+Input: [-1.0, -1.0], Prob: 0.5000, Output: 0
+Input: [-1.0, 1.0], Prob: 0.5000, Output: 0
+Input: [1.0, -1.0], Prob: 0.5000, Output: 0
+Input: [1.0, 1.0], Prob: 0.5000, Output: 0
+
+seed 5: FAILED
+Execution time for seed 5: 2.73 seconds
+
+==================================================
+Starting training with seed 6
+==================================================
+
+Epoch 0, Loss: 0.7236
+Epoch 100, Loss: 0.6931
+Epoch 200, Loss: 0.6931
+Epoch 300, Loss: 0.6931
+Epoch 400, Loss: 0.6931
+Epoch 500, Loss: 0.6931
+Epoch 600, Loss: 0.6931
+Epoch 700, Loss: 0.6931
+Epoch 800, Loss: 0.6931
+Epoch 900, Loss: 0.6931
+
+Test:
+Input: [-1.0, -1.0], Prob: 0.5000, Output: 1
+Input: [-1.0, 1.0], Prob: 0.5000, Output: 0
+Input: [1.0, -1.0], Prob: 0.5000, Output: 1
+Input: [1.0, 1.0], Prob: 0.5000, Output: 0
+
+seed 6: FAILED
+Execution time for seed 6: 2.73 seconds
+
+==================================================
+Starting training with seed 7
+==================================================
+
+Epoch 0, Loss: 0.7015
+Epoch 100, Loss: 0.6931
+Epoch 200, Loss: 0.6931
+Epoch 300, Loss: 0.6931
+Epoch 400, Loss: 0.6931
+Epoch 500, Loss: 0.6931
+Epoch 600, Loss: 0.6931
+Epoch 700, Loss: 0.6931
+Epoch 800, Loss: 0.6931
+Epoch 900, Loss: 0.6931
+
+Test:
+Input: [-1.0, -1.0], Prob: 0.5000, Output: 0
+Input: [-1.0, 1.0], Prob: 0.5000, Output: 1
+Input: [1.0, -1.0], Prob: 0.5000, Output: 1
+Input: [1.0, 1.0], Prob: 0.5000, Output: 1
+
+seed 7: FAILED
+Execution time for seed 7: 2.73 seconds
+
+==================================================
+Starting training with seed 8
+==================================================
+
+Epoch 0, Loss: 0.8068
+Epoch 100, Loss: 0.6932
+Epoch 200, Loss: 0.6931
+Epoch 300, Loss: 0.6931
+Epoch 400, Loss: 0.6932
+Epoch 500, Loss: 0.6931
+Epoch 600, Loss: 0.6932
+Epoch 700, Loss: 0.6932
+Epoch 800, Loss: 0.6931
+Epoch 900, Loss: 0.6931
+
+Test:
+Input: [-1.0, -1.0], Prob: 0.5000, Output: 1
+Input: [-1.0, 1.0], Prob: 0.5000, Output: 0
+Input: [1.0, -1.0], Prob: 0.5000, Output: 1
+Input: [1.0, 1.0], Prob: 0.5000, Output: 1
+
+seed 8: FAILED
+Execution time for seed 8: 2.73 seconds
+
+==================================================
+Starting training with seed 9
+==================================================
+
+Epoch 0, Loss: 0.7926
+Epoch 100, Loss: 0.6932
+Epoch 200, Loss: 0.6931
+Epoch 300, Loss: 0.6931
+Epoch 400, Loss: 0.6931
+Epoch 500, Loss: 0.6931
+Epoch 600, Loss: 0.6931
+Epoch 700, Loss: 0.6931
+Epoch 800, Loss: 0.6932
+Epoch 900, Loss: 0.6931
+
+Test:
+Input: [-1.0, -1.0], Prob: 0.5000, Output: 1
+Input: [-1.0, 1.0], Prob: 0.5000, Output: 1
+Input: [1.0, -1.0], Prob: 0.5000, Output: 0
+Input: [1.0, 1.0], Prob: 0.5000, Output: 1
+
+seed 9: FAILED
+Execution time for seed 9: 2.72 seconds
